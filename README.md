@@ -1,2 +1,2 @@
 # gittutorial
-Just some simple tutorial on git
+Just some simple tutorial on git for a beginner
